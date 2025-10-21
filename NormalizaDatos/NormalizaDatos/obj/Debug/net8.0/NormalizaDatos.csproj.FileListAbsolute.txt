@@ -1,0 +1,14 @@
+C:\Users\CAMPUSFP\Desktop\ASP\NormalizaDatos\NormalizaDatos\bin\Debug\net8.0\NormalizaDatos.exe
+C:\Users\CAMPUSFP\Desktop\ASP\NormalizaDatos\NormalizaDatos\bin\Debug\net8.0\NormalizaDatos.deps.json
+C:\Users\CAMPUSFP\Desktop\ASP\NormalizaDatos\NormalizaDatos\bin\Debug\net8.0\NormalizaDatos.runtimeconfig.json
+C:\Users\CAMPUSFP\Desktop\ASP\NormalizaDatos\NormalizaDatos\bin\Debug\net8.0\NormalizaDatos.dll
+C:\Users\CAMPUSFP\Desktop\ASP\NormalizaDatos\NormalizaDatos\bin\Debug\net8.0\NormalizaDatos.pdb
+C:\Users\CAMPUSFP\Desktop\ASP\NormalizaDatos\NormalizaDatos\obj\Debug\net8.0\NormalizaDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CAMPUSFP\Desktop\ASP\NormalizaDatos\NormalizaDatos\obj\Debug\net8.0\NormalizaDatos.AssemblyInfoInputs.cache
+C:\Users\CAMPUSFP\Desktop\ASP\NormalizaDatos\NormalizaDatos\obj\Debug\net8.0\NormalizaDatos.AssemblyInfo.cs
+C:\Users\CAMPUSFP\Desktop\ASP\NormalizaDatos\NormalizaDatos\obj\Debug\net8.0\NormalizaDatos.csproj.CoreCompileInputs.cache
+C:\Users\CAMPUSFP\Desktop\ASP\NormalizaDatos\NormalizaDatos\obj\Debug\net8.0\NormalizaDatos.dll
+C:\Users\CAMPUSFP\Desktop\ASP\NormalizaDatos\NormalizaDatos\obj\Debug\net8.0\refint\NormalizaDatos.dll
+C:\Users\CAMPUSFP\Desktop\ASP\NormalizaDatos\NormalizaDatos\obj\Debug\net8.0\NormalizaDatos.pdb
+C:\Users\CAMPUSFP\Desktop\ASP\NormalizaDatos\NormalizaDatos\obj\Debug\net8.0\NormalizaDatos.genruntimeconfig.cache
+C:\Users\CAMPUSFP\Desktop\ASP\NormalizaDatos\NormalizaDatos\obj\Debug\net8.0\ref\NormalizaDatos.dll
